@@ -1,0 +1,10 @@
+{
+  "cors": [
+    {
+      "origin": ["https://mangabuff.ru"],
+      "responseHeader": ["Content-Type"],
+      "method": ["GET"],
+      "maxAgeSeconds": 3600
+    }
+  ]
+}
